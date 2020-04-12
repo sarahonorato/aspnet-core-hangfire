@@ -53,6 +53,10 @@
             "Hangfire.SqlServer": {
               "target": "Package",
               "version": "[1.7.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
